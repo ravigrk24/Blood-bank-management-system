@@ -1,5 +1,4 @@
 #Branch
-[
 INSERT into Branch values('BANG01','Banglore','3rd cross, xyz road, rk nagar', 9900990091 );
 INSERT into Branch values('BANG02','Banglore','1st cross, abc road, kr nagar', 9900990092 );
 INSERT into Branch values('BANG03','Banglore','2ndd cross, pqr road, rr nagar', 9900990093 );
@@ -21,11 +20,8 @@ INSERT into Branch values('DNG01','Davanagere','1st cross, nisch road, mn nagar'
 INSERT into Branch values('KOL01','Kolar','3rd cross, dess road', 9900990020 );
 INSERT into Branch values('KOL02','Kolar','1st cross, xyz road', 9900990021 );
 INSERT into Branch values('RAI01','Raichur','3rd cross, tuppa road, gt nagar', 9900990022 );
-]
 
-
-
-[#Event
+#Event
 INSERT into Don_Program values('blr01', '20-03-2019', 'Banglore', 50, 'BANG01');
 INSERT into Don_Program values('bgm02', '21-03-2019', 'Belagavi', 33, 'BGM02');
 INSERT into Don_Program values('blr03', '22-03-2019', 'Banglore', 70, 'BANG01');
@@ -40,10 +36,6 @@ INSERT into Don_Program values('mys11', '30-03-2019', 'Mysuru', 49, 'MYS01');
 INSERT into Don_Program values('mys12', '20-03-2019', 'Mysuru', 87, 'MYS02');
 INSERT into Don_Program values('mang13', '1-04-2019', 'Manglore', 68, 'MANG01');
 INSERT into Don_Program values('mdy14', '2-04-2019', 'Manday', 55, 'MDY01');
-]
-
-
-
 
 #Blood
 INSERT into Blood  values('ambB01', 'O-', '23-03-2019','23-05-2019');
@@ -218,24 +210,3 @@ INSERT into Provides values ('BID02', 12, '20-03-2019',2);
 INSERT into Provides values ('BID01', 13, '20-03-2019',2);
 INSERT into Provides values ('BANG01', 14, '20-03-2019',1);
 
-
-
-
-
-pedro spirits
-billy barker
-ari bleacher
-charlie style
-pedro style
-gina murphy
-julio barker
-lauren blacker
-nicky blacker
-jay bleacher
-bradley spirits
-nicky rogers
-roy barker
-lorraine rogers
-
-
-lady
