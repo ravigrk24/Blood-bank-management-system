@@ -2,23 +2,23 @@
 INSERT into Branch values('BANG01','Banglore','3rd cross, xyz road, rk nagar', 9900990091 );
 INSERT into Branch values('BANG02','Banglore','1st cross, abc road, kr nagar', 9900990092 );
 INSERT into Branch values('BANG03','Banglore','2ndd cross, pqr road, rr nagar', 9900990093 );
-INSERT into Branch values('BGM01','Belagavi','3rd cross, xyz road, mahantesh nagar', 9900990094 );
+INSERT into Branch values('BGM01','Belagavi','3rd cross, khade road, mahantesh nagar', 9900990094 );
 INSERT into Branch values('BGM02','Belagavi','1st cross, abc road, kore nagar', 9900990095 );
 INSERT into Branch values('BGM03','Belagavi','4th cross, pqr road, navami nagar', 9900990096 );
-INSERT into Branch values('BID01','Bidar','3rd cross, xyz road, afjal nagar', 9900990097 );
+INSERT into Branch values('BID01','Bidar','3rd cross, reddy road, afjal nagar', 9900990097 );
 INSERT into Branch values('BID02','Bidar','1st cross, prq road, pri nagar', 9900990098 );
 INSERT into Branch values('BAL01','Ballary','2nd cross, sanja road, jm nagar', 9900990099 );
-INSERT into Branch values('BAL02','Ballary','3rd cross, xyz road, kh nagar', 9900990010 );
-INSERT into Branch values('MYS01','Mysuru','1st cross, xyz road, chamundi nagar', 9900990011 );
+INSERT into Branch values('BAL02','Ballary','3rd cross, gahno road, kh nagar', 9900990010 );
+INSERT into Branch values('MYS01','Mysuru','1st cross, venu road, chamundi nagar', 9900990011 );
 INSERT into Branch values('MYS02','Mysuru','3rd cross, abcd road, ven nagar', 9900990013 );
 INSERT into Branch values('MANG01','Manglore','5th cross, yenta road, dc nagar', 9900990014 );
-INSERT into Branch values('MANG02','Manglore','3rd cross, xyz road', 9900990015 );
+INSERT into Branch values('MANG02','Manglore','3rd cross, sully road', 9900990015 );
 INSERT into Branch values('MDY01','Manday','1st cross, nikhil road, yellidi nagar', 9900990016 );
 INSERT into Branch values('BLT01','Bagalkot','4th cross, mallaya road', 9900990017 );
 INSERT into Branch values('HAS01','Hassan','1st cross, dumma road, kb nagar', 9900990018 );
 INSERT into Branch values('DNG01','Davanagere','1st cross, nisch road, mn nagar', 9900990019 );
 INSERT into Branch values('KOL01','Kolar','3rd cross, dess road', 9900990020 );
-INSERT into Branch values('KOL02','Kolar','1st cross, xyz road', 9900990021 );
+INSERT into Branch values('KOL02','Kolar','1st cross, chara road', 9900990021 );
 INSERT into Branch values('RAI01','Raichur','3rd cross, tuppa road, gt nagar', 9900990022 );
 
 #Event
