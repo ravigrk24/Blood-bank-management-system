@@ -1,5 +1,5 @@
 # Blood-bank-management-system
-4th sem database management system project
+4th Sem Database Management System Project
 
 Team Number : 10
 
